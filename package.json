@@ -1,5 +1,5 @@
 {
-	"name": "wdio-desktop-web-pretest-bukalapak",
+	"name": "wdio-desktop-web-postest-telkom",
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/renninugraheni/Bukalapak-wdio-web"
+		"url": "https://github.com/renninugraheni/telkom-wdio-web"
 	},
 	"keywords": [],
 	"author": "",

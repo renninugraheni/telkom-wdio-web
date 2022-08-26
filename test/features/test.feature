@@ -1,6 +1,6 @@
-Feature: login page
+Feature: Transaction
 
-Background: Open login page Bukalapak
+Background: Open login page Sauce lab
 Given a web browser is in sauce lab login page
 
 Scenario: As a user, I can login using account standard_user and do transaction

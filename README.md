@@ -1,7 +1,7 @@
-# Bukalapak-wdio-web
-Bukalapak-wdio-web is a project to answer the pre-test Test Engineer. I hope this becomes a consideration to be accepted as a Test Engineer at Bukalapak.
+# Telkom-wdio-web
+Telkom-wdio-web is a project to answer the pre-test SQAE. I hope this becomes a consideration to be accepted as a SQAE at Telkom.
 # Requirements
-- Node version 8 or higher
+- Node version 8 or higher but lower than version 15.14.0
 - A preconfigured Selenium Grid, preinstalled browser driver or cloud provider account.
 
 This project works fine with NPM. To keep things simple we use yarn in this guide, but feel free to replace this with NPM if that is what you are using.
