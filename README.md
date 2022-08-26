@@ -1,5 +1,5 @@
 # Telkom-wdio-web
-Telkom-wdio-web is a project to answer the pre-test SQAE. I hope this becomes a consideration to be accepted as a SQAE at Telkom.
+Telkom-wdio-web is a project to answer the post-test SQAE. I hope this becomes a consideration to be accepted as a SQAE at Telkom.
 # Requirements
 - Node version 8 or higher but lower than version 15.14.0
 - A preconfigured Selenium Grid, preinstalled browser driver or cloud provider account.
